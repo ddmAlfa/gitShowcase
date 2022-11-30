@@ -6,7 +6,7 @@ namespace gitShowcase
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tak určitě");
+            Console.WriteLine("Samozřejmě že ano. Souhlasím? Ano!");
         }
     }
 }
