@@ -6,7 +6,7 @@ namespace gitShowcase
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Zdrvím Pavle!");
+            Console.WriteLine("Zdrvím Pavle, vítej!");
         }
     }
 }
